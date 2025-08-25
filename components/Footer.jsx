@@ -30,7 +30,7 @@ const Footer = () => {
       </div>
       <div className="itim w-full lg:w-1/5 text-center lg:text-left">
         <h2 className="text-2xl mb-2">Contact Us</h2>
-        <p className="text-sm">deepaklg02@gmail.com</p>
+        <p className="text-sm">rohitthakurrt365@gmail.com</p>
       </div>
     </div>
   );
