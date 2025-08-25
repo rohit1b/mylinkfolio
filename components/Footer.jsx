@@ -18,13 +18,13 @@ const Footer = () => {
         <Headline heading={"Resume Lab"} text={"Your ATS Friendly Resume"} />
       </div>
       <div className="w-full lg:w-1/5 mt-4 flex flex-row items-center justify-around">
-        <Link href="https://www.instagram.com/iqlipse_22/" className="w-8">
+        <Link href="https://www.instagram.com/_rohitthakur10/" className="w-8">
           <FontAwesomeIcon icon={faInstagram} className="icon" />
         </Link>
-        <Link href="https://github.com/iQliPsE-22/resumelab" className="w-8">
+        <Link href="https://https://github.com/rohit1b/" className="w-8">
           <FontAwesomeIcon icon={faGithub} className="icon" />
         </Link>
-        <Link href="https://www.linkedin.com/in/deepak2004/" className="w-8">
+        <Link href="https://www.linkedin.com/in/rohit-singh-423050260/" className="w-8">
           <FontAwesomeIcon icon={faLinkedin} className="icon" />
         </Link>
       </div>
